@@ -15,9 +15,9 @@ This is my personal website showcasing my projects, resume, and interests. It's 
 - **JavaScript**
 
 ## How to View the Site
-The website is hosted on GitHub Pages and can be viewed at: [https://yourusername.github.io/personal_website](https://yourusername.github.io/personal_website).
+The website is hosted on GitHub Pages and can be viewed at: [https://sanjiv-thapa.github.io/personal_website/]https://sanjiv-thapa.github.io/personal_website/.
 
-## How to Run Locally
+## How to Run Local
 1. Clone the repository: 
    ```bash
    git clone https://github.com/Sanjiv-Thapa/personal_website.git
